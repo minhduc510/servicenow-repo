@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-13 09:09:58</sys_created_on>
+        <sys_id>a72b841883f6a250c73ccc65eeaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1783918_servicen_test_table.x_1783918_servicen.test_table_user</sys_name>
+        <sys_package display_value="ServiceNow Git Demo" source="x_1783918_servicen">5d45c01083f6a250c73ccc65eeaad346</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Git Demo">5d45c01083f6a250c73ccc65eeaad346</sys_scope>
+        <sys_security_acl display_value="x_1783918_servicen_test_table">af2b841883f6a250c73ccc65eeaad3b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a72b841883f6a250c73ccc65eeaad3bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-13 09:09:58</sys_updated_on>
+        <sys_user_role display_value="x_1783918_servicen.test_table_user" name="x_1783918_servicen.test_table_user">fd2b001883f6a250c73ccc65eeaad38c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
